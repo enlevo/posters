@@ -1,6 +1,6 @@
 # enlevo's posters 🌄
 
-This is the collection of our event poster project files. It's just for archival versions but it can be interesting to anyone that finds it cool!
+This is the collection of our event poster project files. It's just for archival/historical reasons but it can be interesting to anyone that finds it cool!
 
 
 ### Do I need to install anything? 🧱
