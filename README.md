@@ -7,12 +7,17 @@ This is the collection of our event poster project files. It's just for archival
 
 We generally use [Blender](https://www.blender.org/).
 Occasionally we also use [Stable Diffusion](https://github.com/CompVis/stable-diffusion) to generate images for ourselves. We use [AUTOMATIC1111's Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) with additional extensions:
-- we're using the [`AyoniMix model`](https://civitai.com/models/4550/ayonimix) as checkpoint.
+- we're using the [`AyoniMix model`](https://civitai.com/models/4550/ayonimix) as a checkpoint.
 - we're also using [`VAEs`](https://stable-diffusion-art.com/how-to-use-vae/).
 - on top of these, we have [`ControlNet`](https://github.com/lllyasviel/ControlNet) to better control the output of our messages.
 
 If you *aren't* familiar with Stable Diffusion, we **highly recommend** giving the following link a read - https://stable-diffusion-art.com/automatic1111/.
 You will need to know what Stable Diffusion *is* and how to use the Web UI to be able to use our parameters.
+
+> [!NOTE]  
+> You may find it easier to follow a video on setting all the Stable Diffusion models/checkpoints instead of reading.
+> If so, simply watch https://www.youtube.com/watch?v=nBpD-RbglPw&ab_channel=AlbertBozesan.
+> This is ***highly recommended***.
 
 
 #### Okay... so how do I install all of those extensions? 🤔
@@ -25,7 +30,7 @@ For Stable Diffusion, you first need to install AUTOMATIC1111'S Web GUI. Please 
 ##### Installing `AyoniMix model` (and other models)
 
 We are using [`AyoniMix`](https://civitai.com/models/4550/ayonimix) as our primary checkpoint/model. We are using this one primarily because it yields fair results. The process of installing models is the same for others. So if any example is using a different model, you can follow these same instructions.
-Download `AyoniMix` and simply place it inside `models/Stable-diffusion` directory on your `AUTOMATIC1111 Web UI` instance. For more information, you can visit the documentation in https://github.com/civitai/civitai/wiki/How-to-use-models.
+Download `AyoniMix` and simply place it inside `models/Stable-diffusion` directory on your `AUTOMATIC1111 Web UI` instance. For more information, you can visit the documentation at https://github.com/civitai/civitai/wiki/How-to-use-models.
 
 
 ##### Adding `VAEs`
@@ -48,4 +53,4 @@ We *highly* suggest you to see the beginning of https://www.youtube.com/watch?v=
 
 ##### And you're done!
 
-After this, you should be done with the default settings we are using. If there are any additional models/extensions being used in each folder, they will specified. 
+After this, you should be done with the default settings we are using. If there are any additional models/extensions being used in each folder, they will be specified. 
