@@ -9,7 +9,7 @@ We generally use [Blender](https://www.blender.org/).
 Occasionally we also use [Stable Diffusion](https://github.com/CompVis/stable-diffusion) to generate images for ourselves. We use [AUTOMATIC1111's Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) with additional extensions:
 - we're using the [`AyoniMix model`](https://civitai.com/models/4550/ayonimix) as a checkpoint.
 - we're also using [`VAEs`](https://stable-diffusion-art.com/how-to-use-vae/).
-- on top of these, we have [`ControlNet`](https://github.com/lllyasviel/ControlNet) to better control the output of our messages.
+- on top of these, we have [`ControlNet`](https://github.com/lllyasviel/ControlNet) to better control the output of our images.
 
 If you *aren't* familiar with Stable Diffusion, we **highly recommend** giving the following link a read - https://stable-diffusion-art.com/automatic1111/.
 You will need to know what Stable Diffusion *is* and how to use the Web UI to be able to use our parameters.
