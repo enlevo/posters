@@ -1,4 +1,4 @@
-# #1 `Ricky Boy` at Barragem Cimeira do Alvão
+# #2 `Ricky Boy` at Barragem Cimeira do Alvão
 
 This is the poster of the second **enlevo** event. 
 The poster published was:
